@@ -13,7 +13,7 @@
 </head>
 <body bgcolor=#99ff99>
 <table style="width:100%;" cellpadding="5" border-collapse="0">
-	<tr ><td colspan="5"  bgcolor="#3A6D0B" style="text-align:center"><a href="index.php"><img src="image/logo.png" width="250" height="80"></a></td>
+	<tr ><td colspan="5"  bgcolor="#3A6D0B" style="text-align:center"><a href="user1.php"><img src="image/logo.png" width="250" height="80"></a></td>
 	<td bgcolor="#99e699" style="text-align:center;border: 3px solid black;border-collapse: collapse;"><a href="udata.php"> <img src="image/user.png" width="60" height="50"></a>
 	</td> </tr>
   <tr style="font-size: 13pt;" width="100%" bgcolor="#214202" class="clr">
@@ -39,7 +39,7 @@ Owned by Chandigarh Administration<br>
 Operated by Chandigarh Administration<br>
 Species	1600 species of roses<br>
 Collections 50 thousand plants of roses<br><br><br>
-Official Website : <a href="https://wwww.chandiagarh.gov.in"> chandigarh.gov.in</a><br><br><Br>
+Official Website : <a href="https://www.chandigarh.gov.in"> chandigarh.gov.in</a><br><br><Br>
 </fieldset>
 </td></tr>
 <tr class="back">

@@ -42,7 +42,7 @@ Owned by Chandigarh Administration<br>
 Operated by Chandigarh Administration<br>
 Species	1600 species of roses<br>
 Collections 50 thousand plants of roses<br><br><br>
-Official Website : <a href="https://wwww.chandiagarh.gov.in"> chandigarh.gov.in</a><br><br><Br>
+Official Website : <a href="https://www.chandigarh.gov.in"> chandigarh.gov.in</a><br><br><Br>
 </fieldset>
 </td>
 </tr>
