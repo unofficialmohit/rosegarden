@@ -14,7 +14,7 @@ Some Screenshots of the project :
 
 Home Page :
 
-![image](https://user-images.githubusercontent.com/123811704/236449618-99658bee-e5dc-4121-bb17-f1e53cfaf5f7.png)
+![image](https://user-images.githubusercontent.com/123811704/236464645-f79ae7c3-094e-4fa5-ae67-b55c910d23de.png)
 
 ![image](https://user-images.githubusercontent.com/123811704/236449723-a659d624-d597-4c26-8065-ab9775256a1a.png)
 
